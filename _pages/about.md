@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Trained as an electric engineer and computer scientist, then later turned to
-do physics research for 10 years. Now dive into industry for pratical and fun
+Trained as an electric/telecommunication engineer and computer scientist, later
+turned to a physics scientist for 10 years. Now dive into industry for pratical and fun
 stuff.
 
 Skilled at programming in whatever languages (OK, not super skilled), high-performance computing,
