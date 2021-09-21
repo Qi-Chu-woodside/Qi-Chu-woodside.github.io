@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qi Chu"
   avatar           : "profile.png"
-  bio              : "Academia escapee, now data scientist"
+  bio              : "Academia escapee"
   location         : "Perth, Aus"
   employer         : "StepChange/Woodside"
   googlescholar    : "https://scholar.google.com.au/citations?user=ZmJVsncAAAAJ&hl=en"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+      #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
