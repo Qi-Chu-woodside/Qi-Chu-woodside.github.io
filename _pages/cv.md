@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, University of Western Australia, 2017
+* M.S. in Computer Science, University of Chinese Academy of Sciences, 2011
+* B.S. in Electrical/Telecommunication engineering, Beijing University of Posts
+  and Telecommunications, 208
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-01 - 2021-07: Research Fellow
+  * University of Western Australia/ OzGrav
+  * Duties included: research, PhD/master/undergraduate supervision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-12 - 2018-01: Research Associate
+  * University of Western Australia
+  * Duties included: Research
+
+* 2008-06 - 2008-10 : software programmer
+  * Keke Network Startup 
+  * Duties included: Develop new features of a VoIP (Voice over IP) product.
+  * Supervisor: Dr. Lijun Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* High performance computing
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
